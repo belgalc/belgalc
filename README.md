@@ -1,7 +1,5 @@
-<img src="https://camo.githubusercontent.com/14268c9a441c1218439ce5d5190bbbcbe4159506ae4f4dad4c0815b0cfa738f7/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Belgacem Chandoul</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belgalc&label=Profile%20views&color=0e75b6&style=flat" alt="belgalc" /> </p>
 
